@@ -1,0 +1,13 @@
+nornir1:
+  hostname: '192.168.255.80'
+  port: 22
+  username: 'admin'
+  password: 'cisco'
+  platform: 'cisco_ios'
+
+nornir2:
+  hostname: '192.168.255.81'
+  port: 22
+  username: 'admin'
+  password: 'cisco'
+  platform: 'cisco_ios'
